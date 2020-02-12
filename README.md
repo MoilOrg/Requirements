@@ -14,4 +14,4 @@ Student want to join OIL-Laboratory in Ming chi University of Technology Taiwan 
 
 Please **put the document in different folder**,  to make it easier for review. 
 
-If you don't know how to upload your document, please follow [the guideline here](https://github.com/oilmcut2020/required-document/blob/master/asset/Upload-document.md)
+If you don't know how to upload your document, please follow [the guideline here](https://github.com/oilmcut2020/upload-document/blob/master/asset/Upload-document.md)
